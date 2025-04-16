@@ -1,0 +1,47 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+._*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Hidden files and directories (except .gitignore, .github, and .nojekyll)
+.*
+!.gitignore
+!.github/
+!.nojekyll
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# VS Code
+.vscode/
+
+# Other unnecessary files
+api.js
+config.js
+server.js
+chat-box.html
+answer.html
+script.js
+styles.css
+package.json
+package-lock.json 
